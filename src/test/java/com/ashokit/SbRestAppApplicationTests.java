@@ -1,4 +1,4 @@
-package com.ashokit;
+package com.teksit;
 
 class SbRestAppApplicationTests {
 
